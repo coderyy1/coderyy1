@@ -1,4 +1,4 @@
-### Hi there 欢迎来到我的GitHub主页👋
+### Hi 欢迎来到我的GitHub主页👋
 
 <!--
 **coderyy1/coderyy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 - 😄 一个热爱前端开发的小菜鸟
 - ⚡努力成为一个技术控
+- JS / Ts
+- React
+- Vue
+- Nextjs
+- Umijs
+- Nodejs / Bunjs
+- Prisma
+- Tailwind Css
