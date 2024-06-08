@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 - 😄 一个热爱前端开发的小菜鸟
 - ⚡努力成为一个技术控
-- JS / Ts
+- JS / TS
 - React
 - Vue
 - Nextjs
 - Umijs
+- midwayjs
 - Nodejs / Bunjs
 - Prisma
 - Tailwind Css
