@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 一个热爱前端开发的小菜鸟
-- ⚡努力成为一个技术控
 - JS / TS
-- React
+- React 😄
 - Vue
 - Nextjs
-- Umijs
+- Umi
 - midwayjs
-- Nodejs / Bunjs
+- Node / Bun
 - Prisma
 - Tailwind Css
