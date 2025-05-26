@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - JS / TS
+- docker
 - React 😄
 - Vue
 - Nextjs
 - Umi
 - midwayjs
-- Node / Bun
+- Node
 - Prisma
 - Tailwind Css
+- go --- want to use
+- rust ----- learning
